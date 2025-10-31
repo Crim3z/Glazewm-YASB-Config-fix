@@ -1,0 +1,1 @@
+# Glazewm-YASB-Config-fix
